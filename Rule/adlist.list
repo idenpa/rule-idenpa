@@ -1,5 +1,5 @@
-hosts, inner-hw.huazirc.com, reject
-hosts, adservice.adtroop.cn, reject
-hosts, ad.huazirc.com, reject
-hosts, hw-ot-ad.a.yximgs.com, reject
-hosts, v2-ad.video.yximgs.com, reject
+hosts-suffix, inner-hw.huazirc.com, reject
+hosts-suffix, adservice.adtroop.cn, reject
+hosts-suffix, ad.huazirc.com, reject
+hosts-suffix, hw-ot-ad.a.yximgs.com, reject
+hosts-suffix, v2-ad.video.yximgs.com, reject
