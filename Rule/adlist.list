@@ -1,5 +1,5 @@
-hosts, inner-hw.huazirc.com
-hosts, adservice.adtroop.cn
-hosts, ad.huazirc.com
-hosts, hw-ot-ad.a.yximgs.com
-hosts, v2-ad.video.yximgs.com
+host, inner-hw.huazirc.com
+host, adservice.adtroop.cn
+host, ad.huazirc.com
+host, hw-ot-ad.a.yximgs.com
+host, v2-ad.video.yximgs.com
