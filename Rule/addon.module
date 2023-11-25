@@ -1,4 +1,5 @@
 #!name=addon
+#!app=shadowrocket
 #!homepage=https://github.com/idenpa/Rule-QuanX/
 [Rule]
 #DOMAIN-SUFFIX,0-6.com,DIRECT
