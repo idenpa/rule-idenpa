@@ -3,5 +3,11 @@
 #!homepage=https://github.com/idenpa/Rule-QuanX/
 [Rule]
 #DOMAIN-SUFFIX,0-6.com,DIRECT
-#DOMAIN-SUFFIX,000webhost.com,PROXY
-#DOMAIN-SUFFIX,0-000.store,REJECT
+#DOMAIN,2mdn.net,DIRECT
+#DOMAIN-SUFFIX,00px.net,REJECT
+#URL-REGEX,"^https?:\/\/cdn-akamai-.+\.gog-services\.com.*$",DIRECT
+DOMAIN,inner-hw.huazirc.com,REJECT
+DOMAIN,adservice.adtroop.cn,REJECT
+DOMAIN,ad.huazirc.com,REJECT
+DOMAIN,hw-ot-ad.a.yximgs.com,REJECT
+DOMAIN,v2-ad.video.yximgs.com,REJECT
