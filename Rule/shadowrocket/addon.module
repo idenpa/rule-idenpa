@@ -6,8 +6,11 @@
 #DOMAIN,2mdn.net,DIRECT
 #DOMAIN-SUFFIX,00px.net,REJECT
 #URL-REGEX,"^https?:\/\/cdn-akamai-.+\.gog-services\.com.*$",DIRECT
-DOMAIN,inner-hw.huazirc.com,REJECT
-DOMAIN,adservice.adtroop.cn,REJECT
-DOMAIN,ad.huazirc.com,REJECT
-DOMAIN,hw-ot-ad.a.yximgs.com,REJECT
-DOMAIN,v2-ad.video.yximgs.com,REJECT
+DOMAIN-SUFFIX,inner-hw.huazirc.com,REJECT
+DOMAIN-SUFFIX,adservice.adtroop.cn,REJECT
+DOMAIN-SUFFIX,ad.huazirc.com,REJECT
+DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com,REJECT
+DOMAIN-SUFFIX,v2-ad.video.yximgs.com,REJECT
+DOMAIN-SUFFIX,adsdk.idmzj.com,REJECT
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com,REJECT
