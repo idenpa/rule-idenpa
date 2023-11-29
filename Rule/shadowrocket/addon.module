@@ -12,5 +12,5 @@ DOMAIN-SUFFIX,ad.huazirc.com,REJECT
 DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com,REJECT
 DOMAIN-SUFFIX,v2-ad.video.yximgs.com,REJECT
 DOMAIN-SUFFIX,adsdk.idmzj.com,REJECT
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
-DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
