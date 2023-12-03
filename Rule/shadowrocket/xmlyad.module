@@ -1,10 +1,7 @@
-#!url=
+#!url=https://raw.githubusercontent.com/idenpa/rule-idenpa/main/Rule/shadowrocket/xmlyad.module
 #!name=喜马拉雅去广告
-
 #!desc=喜马拉雅去广告
-
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/xmlyad.png
-
 #!author=ddgksf2013
 
 [MITM]
