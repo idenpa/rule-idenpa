@@ -1,4 +1,4 @@
-#!url=https://raw.githubusercontent.com/idenpa/rule-idenpa/main/Rule/shadowrocket/163music.module
+#!url=https://raw.githubusercontent.com/idenpa/rule-idenpa/main/Rule/shadowrocket/netmusic.module
 #!name=网易云音乐去广告
 #!desc=网易云音乐去广告
 [MITM]
