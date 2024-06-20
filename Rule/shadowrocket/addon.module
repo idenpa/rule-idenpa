@@ -14,3 +14,5 @@ DOMAIN-SUFFIX,v2-ad.video.yximgs.com,REJECT
 DOMAIN-SUFFIX,adsdk.idmzj.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
+DOMAIN,180.76.76.200
+IP-CIDR,180.76.76.200/32,no-resolve
