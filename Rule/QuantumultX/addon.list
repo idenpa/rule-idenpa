@@ -1,4 +1,7 @@
+#强制直连#
 host, sdkapp.uve.weibo.com, direct
 host-suffix, freeok.vip, direct
 host-suffix, v27qae.com, direct
 host-suffix, wenku8.net, direct
+#强制代理#
+HOST,testflight.apple.com,全球加速
