@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "示例1",
+        "示例2"
+      ],
+      "domain_keyword": "关键词"
+    }
+  ]
+}
