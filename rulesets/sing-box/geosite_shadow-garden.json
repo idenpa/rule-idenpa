@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tw-prd-cdn-shadow-garden-mog.akamaized.net",
+        "tw-prd-green-api.shadow-garden-mog.tw"
+      ],
+      "domain_keyword": "shadow-garden"
+    }
+  ]
+}
