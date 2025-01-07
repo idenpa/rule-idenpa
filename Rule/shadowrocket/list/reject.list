@@ -1,0 +1,10 @@
+#REJECT
+DOMAIN-SUFFIX,inner-hw.huazirc.com,REJECT
+DOMAIN-SUFFIX,adservice.adtroop.cn,REJECT
+DOMAIN-SUFFIX,ad.huazirc.com,REJECT
+DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com,REJECT
+DOMAIN-SUFFIX,v2-ad.video.yximgs.com,REJECT
+DOMAIN-SUFFIX,adsdk.idmzj.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
+IP-CIDR,180.76.76.200/32,REJECT
