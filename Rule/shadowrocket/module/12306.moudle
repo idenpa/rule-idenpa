@@ -1,0 +1,10 @@
+#!url=https://raw.githubusercontent.com/idenpa/rule-idenpa/main/Rule/shadowrocket/12306.module
+#!name=12306去广告
+#!desc=12306去广告
+#!author=ddgksf2013
+#!使用说明：请在本地添加分流 host, ad.12306.cn, direct
+#!2024-08-24
+[rewrite_local]
+^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://github.com/ddgksf2013/Scripts/raw/master/12306.js
+[mitm]
+hostname = ad.12306.cn
