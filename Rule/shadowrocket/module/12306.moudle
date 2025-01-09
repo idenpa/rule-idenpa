@@ -4,7 +4,7 @@
 #!author=ddgksf2013
 #!使用说明：请在本地添加分流 host, ad.12306.cn, direct
 #!2024-08-24
-[rewrite_local]
+[URL Rewrite]
 ^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://github.com/ddgksf2013/Scripts/raw/master/12306.js
 [mitm]
 hostname = ad.12306.cn
