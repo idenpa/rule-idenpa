@@ -21,4 +21,5 @@ IP-CIDR,180.76.76.200/32,REJECT
 #DIRECT
 DOMAIN-SUFFIX,wenku8.net,DIRECT
 host,ad.12306.cn,DIRECT
-mcdn.bilivideo.cn,DIRECT
+DOMAIN-SUFFIX,mcdn.bilivideo.cn,DIRECT
+DOMAIN-SUFFIX,pcdn.bilivideo.cn,DIRECT
