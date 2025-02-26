@@ -6,9 +6,14 @@
         "mangacopy.com",
         "copymanga.site",
         "copymanga.tv",
-        "mangafuna.xyz"
+        "mangafuna.xyz",
+        "mangafunb.fun"
       ],
-      "domain_keyword": "copymanga"
+      "domain_keyword": [
+        "copymanga",
+        "mangacopy",
+        "mangafuna"
+      ]
     }
   ]
 }
