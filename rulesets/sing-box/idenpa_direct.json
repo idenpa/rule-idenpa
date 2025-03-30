@@ -11,11 +11,16 @@
         "mcydh.com",
         "mxdmp.com",
         "mxdmv.com",
+        "mxdm.xyz",
+        "mxdm9.cc",
         "yinghua12.com",
         "yinghua2.com",
         "zgacgn.com"
       ],
-      "domain_keyword": "gofile.io"
+      "domain_keyword":  [
+        "gofile.io",
+        "mxdm"
+      ],
     }
   ]
 }
