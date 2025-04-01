@@ -1,5 +1,5 @@
 #强制直连#
-#host-suffix, mcdn.bilivideo.cn, direct
-#host-suffix, pcdn.bilivideo.cn, direct
+host-suffix, mcdn.bilivideo.cn, direct
+host-suffix, pcdn.bilivideo.cn, direct
 #强制代理#
-#HOST,testflight.apple.com,全球加速
+HOST,testflight.apple.com,全球加速
