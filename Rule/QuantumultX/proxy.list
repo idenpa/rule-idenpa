@@ -1,0 +1,3 @@
+#强制代理#
+#HOST,testflight.apple.com,全球加速
+host-suffix, bing.com,全球加速
