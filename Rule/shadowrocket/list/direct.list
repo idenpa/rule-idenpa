@@ -1,3 +1,6 @@
+#!name=DirectRule
+#!desc=Direct Rule Test
+
 #DIRECT
 DOMAIN-SUFFIX, wenku8.net
 DOMAIN-SUFFIX, libvio.fun
@@ -31,3 +34,12 @@ DOMAIN-SUFFIX, cycanime.com
 DOMAIN-SUFFIX, maccms.la
 DOMAIN-SUFFIX, superbed.cc
 DOMAIN-SUFFIX, yinghuazy.xyz
+DOMAIN-SUFFIX, mikanime.tv
+DOMAIN-SUFFIX, senhewenhua.com
+DOMAIN-SUFFIX, cycani.org
+DOMAIN-SUFFIX, acgfta.com
+DOMAIN-SUFFIX, mxdm6.com
+DOMAIN-SUFFIX, ssrfun.com
+DOMAIN-SUFFIX, fqdm.cc
+DOMAIN-SUFFIX, ikfan.com
+DOMAIN-SUFFIX, girigirilove.com
