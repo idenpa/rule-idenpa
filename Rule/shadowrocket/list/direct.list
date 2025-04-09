@@ -1,4 +1,5 @@
-#DIRECT
+# DIRECT
+
 DOMAIN-SUFFIX, 1anime1.top
 DOMAIN-SUFFIX, 1anime2025.com
 DOMAIN-SUFFIX, acgfta.com
@@ -40,3 +41,8 @@ DOMAIN-SUFFIX, yinghua12.com
 DOMAIN-SUFFIX, yinghua2.com
 DOMAIN-SUFFIX, yinghuazy.xyz
 DOMAIN-SUFFIX, zgacgn.com
+
+# 暂时禁用
+
+# DOMAIN-SUFFIX,mcdn.bilivideo.cn,DIRECT
+# DOMAIN-SUFFIX,pcdn.bilivideo.cn,DIRECT
