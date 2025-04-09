@@ -1,6 +1,7 @@
 #!name=idenpa-direct
 #!app=shadowrocket
 #!homepage=https://github.com/idenpa/rule-idenpa/
+#!desc=自添加直连列表
 [Rule]
 #DOMAIN-SUFFIX,0-6.com,DIRECT
 #DOMAIN,2mdn.net,DIRECT
