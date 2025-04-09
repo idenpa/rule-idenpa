@@ -1,6 +1,7 @@
 #!name=idenpa-reject
 #!app=shadowrocket
 #!homepage=https://github.com/idenpa/rule-idenpa/
+#!desc=#!desc=自添加拒绝列表
 [Rule]
 #DOMAIN-SUFFIX,0-6.com,DIRECT
 #DOMAIN,2mdn.net,DIRECT
