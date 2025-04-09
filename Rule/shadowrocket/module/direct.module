@@ -9,6 +9,7 @@
 
 # DIRECT
 host,ad.12306.cn,DIRECT
+host,sdkapp.uve.weibo.com,DIRECT
 DOMAIN-SUFFIX,1anime1.top,DIRECT
 DOMAIN-SUFFIX,1anime2025.com,DIRECT
 DOMAIN-SUFFIX,acgfta.com,DIRECT
