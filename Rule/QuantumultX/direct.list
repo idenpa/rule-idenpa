@@ -1,7 +1,49 @@
-#强制直连#
+# direct
+host, ad.12306.cn, direct
 host, sdkapp.uve.weibo.com, direct
-host-suffix, freeok.vip, direct
-host-suffix, v27qae.com, direct
-host-suffix, wenku8.net, direct
+host-suffix, 1anime1.top, direct
+host-suffix, 1anime2025.com, direct
+host-suffix, acgfta.com, direct
+host-suffix, akianime.cc, direct
+host-suffix, bfdm.xyz, direct
+host-suffix, bgm.tv, direct
+host-suffix, cycani.org, direct, direct
+host-suffix, cycanime.com, direct
+host-suffix, d1dm.xyz, direct
+host-suffix, dandanplay.net, direct
+host-suffix, danmaku-cn.myani.org, direct
+host-suffix, dmmiku.net, direct
+host-suffix, eacg1.com, direct
+host-suffix, fqdm.cc, direct
+host-suffix, girigirilove.com, direct
+host-suffix, ikfan.com, direct
+host-suffix, k8dm.com, direct, direct
 host-suffix, libvio.fun, direct
+host-suffix, maccms.la, direct
+host-suffix, mcydh.com, direct
+host-suffix, mikanime.tv, direct
+host-suffix, mwcy.net, direct
+host-suffix, mxdm.xyz, direct
+host-suffix, mxdm6.com, direct, direct
+host-suffix, mxdm9.cc, direct
+host-suffix, mxdmp.com, direct
+host-suffix, mxdmv.com, direct
 host-suffix, novipnoad.net, direct
+host-suffix, qdm88.com, direct
+host-suffix, senhewenhua.com, direct
+host-suffix, skr2.cc, direct
+host-suffix, ssrfun.com, direct
+host-suffix, superbed.cc, direct
+host-suffix, vdm10.com, direct
+host-suffix, wenku8.net, direct
+host-suffix, xfdm.pro, direct
+host-suffix, yhdmjx.com, direct
+host-suffix, yinghua12.com, direct
+host-suffix, yinghua2.com, direct
+host-suffix, yinghuazy.xyz, direct
+host-suffix, zgacgn.com, direct
+
+# 暂时禁用
+
+# host-suffix, mcdn.bilivideo.cn, direct
+# host-suffix, pcdn.bilivideo.cn, direct
