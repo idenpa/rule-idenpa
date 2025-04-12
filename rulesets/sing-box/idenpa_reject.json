@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "XAXA.com",
+        "XAXA.com"
+      ],
+      "domain_keyword": [
+        "XX",
+        "XX"
+      ]
+    }
+  ]
+}
