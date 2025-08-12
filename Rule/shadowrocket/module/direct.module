@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,jzsdm1.com,DIRECT
 DOMAIN-SUFFIX,dmmiku.com,DIRECT
 
 # 暂时禁用
-
+# DOMAIN-SUFFIX, xn--ngstr-lra8j.com,DIRECT
+# DOMAIN-SUFFIX, services.googleapis.cn,DIRECT
 # DOMAIN-SUFFIX,mcdn.bilivideo.cn,DIRECT
 # DOMAIN-SUFFIX,pcdn.bilivideo.cn,DIRECT
