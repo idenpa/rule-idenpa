@@ -3,10 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "googleapis.com",
         "googleapis.com"
       ],
-      "domain_keyword": "googleapis"
+      "domain_keyword": ""
     }
   ]
 }
