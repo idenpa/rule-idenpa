@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "googleapis.com"
+        "googleapis.com",
+        "tearemix.com"
       ],
       "domain_keyword": ""
     }
