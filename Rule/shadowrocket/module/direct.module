@@ -67,9 +67,10 @@ DOMAIN-SUFFIX,vik1ngfile.site,DIRECT
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
 DOMAIN-SUFFIX,services.googleapis.cn,DIRECT
 DOMAIN-SUFFIX,cloudflarestorage.com,DIRECT
+DOMAIN-SUFFIX,mediafire.com,DIRECT
 
 # 暂时禁用
-DOMAIN-SUFFIX, xn--ngstr-lra8j.com,DIRECT
-DOMAIN-SUFFIX, services.googleapis.cn,DIRECT
+# DOMAIN-SUFFIX, xn--ngstr-lra8j.com,DIRECT
+# DOMAIN-SUFFIX, services.googleapis.cn,DIRECT
 # DOMAIN-SUFFIX,mcdn.bilivideo.cn,DIRECT
 # DOMAIN-SUFFIX,pcdn.bilivideo.cn,DIRECT
