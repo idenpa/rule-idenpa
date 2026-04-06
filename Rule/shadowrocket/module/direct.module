@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
 DOMAIN-SUFFIX,services.googleapis.cn,DIRECT
 DOMAIN-SUFFIX,cloudflarestorage.com,DIRECT
 DOMAIN-SUFFIX,mediafire.com,DIRECT
+DOMAIN-SUFFIX,fafda.to,DIRECT
 
 # 暂时禁用
 # DOMAIN-SUFFIX, xn--ngstr-lra8j.com,DIRECT
