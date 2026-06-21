@@ -1,5 +1,13 @@
 {
   "version": 1,
+  "outbounds": [
+    { "tag": "direct", "type": "direct" },
+    { "tag": "🌏 国外穿墙", "type": "selector", "outbounds": ["direct"] },
+    { "tag": "💣 暗影庭园", "type": "selector", "outbounds": ["direct"] },
+    { "tag": "📕 拷贝漫画", "type": "selector", "outbounds": ["direct"] },
+    { "tag": "⚡ 拷贝漫画·加速", "type": "selector", "outbounds": ["direct"] },
+    { "tag": "📦 直连域名", "type": "selector", "outbounds": ["direct"] }
+  ],
   "route": {
     "rules": [
       {
