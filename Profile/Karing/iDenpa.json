@@ -1,144 +1,142 @@
 {
-  "version": 1,
-  "route": {
-    "rules": [
-      {
-        "description": "💻【电脑端进程-直连组】在这里添加需要强制直连的程序名",
-        "process_name": [
-          "CCC.exe",
-          "DDD.exe"
-        ],
-        "outbound": "📦 直连域名"
-      },
-      {
-        "description": "🤖【安卓端包名-直连组】在这里添加需要强制直连的APP包名",
-        "package_name": [
-          "com.example.directapp",
-          "com.example.localapp"
-        ],
-        "outbound": "📦 直连域名"
-      },
-      {
-        "description": "💻【电脑端进程-代理组】在这里添加需要强制代理的程序名",
-        "process_name": [
-          "AAA.exe",
-          "BBB.exe"
-        ],
-        "outbound": "🌏 国外穿墙"
-      },
-      {
-        "description": "🤖【安卓端包名-代理组】在这里添加需要强制代理的APP包名",
-        "package_name": [
-          "com.android.chrome",
-          "org.telegram.messenger"
-        ],
-        "outbound": "🌏 国外穿墙"
-      },
-      {
-        "description": "暗影花园-电脑端进程匹配（优先）",
-        "process_name": [
-          "MasterofGarden.exe",
-          "mogLauncher.exe"
-        ],
-        "outbound": "💣 暗影庭园"
-      },
-      {
-        "description": "暗影花园-关键字匹配",
-        "domain_keyword": [
-          "shadow-garden"
-        ],
-        "outbound": "💣 暗影庭园"
-      },
-      {
-        "description": "暗影花园-域名后缀匹配",
-        "domain_suffix": [
-          "tw-prd-cdn-shadow-garden-mog.akamaized.net",
-          "shadow-garden-mog.tw",
-          "softstargames.com.tw"
-        ],
-        "outbound": "💣 暗影庭园"
-      },
-      {
-        "description": "拷贝漫画-代理组（被屏蔽地址）",
-        "domain_suffix": [
-          "2025copy.com",
-          "2026copy.com"
-        ],
-        "outbound": "📕 拷贝漫画"
-      },
-      {
-        "description": "👇【随时切换组】默认直连。觉得慢切换为代理",
-        "domain_suffix": [
-          "copy20.com",
-          "copy2000.online",
-          "copy2000.site",
-          "copy3000.com",
-          "manga-copy.com",
-          "mangacopy.com",
-          "mangafunb.fun"
-        ],
-        "outbound": "⚡ 拷贝漫画·加速"
-      },
-      {
-        "description": "自定义直连列表（动漫、网盘）",
-        "domain_suffix": [
-          "1anime1.top",
-          "1anime2025.com",
-          "1anime2025.me",
-          "acgfta.com",
-          "akianime.cc",
-          "bfdm.xyz",
-          "cloudflarestorage.com",
-          "cycani.org",
-          "cycanime.com",
-          "d1dm.xyz",
-          "dandanplay.net",
-          "danmaku-cn.myani.org",
-          "dmdan8.com",
-          "dmmiku.com",
-          "dmmiku.net",
-          "eacg1.com",
-          "fafda.to",
-          "fqdm.cc",
-          "girigirilove.com",
-          "gofile.io",
-          "gugu3.com",
-          "ikfan.com",
-          "jzsdm1.com",
-          "k8dm.com",
-          "maccms.la",
-          "mcydh.com",
-          "mediafire.com",
-          "mikanime.tv",
-          "mwcy.net",
-          "mxdm.xyz",
-          "mxdm9.cc",
-          "mxdmp.com",
-          "mxdmv.com",
-          "ntdm8.com",
-          "omofun.icu",
-          "psychz.net",
-          "qdm88.com",
-          "senhewenhua.com",
-          "services.googleapis.cn",
-          "skr2.cc",
-          "ssrfun.com",
-          "superbed.cc",
-          "vdm10.com",
-          "vik1ngfile.site",
-          "vikingfile.com",
-          "wenku8.net",
-          "xfdm.pro",
-          "xiapidm.com",
-          "xn--ngstr-lra8j.com",
-          "yhdmjx.com",
-          "yinghua12.com",
-          "yinghua2.com",
-          "yinghuazy.xyz",
-          "zgacgn.com"
-        ],
-        "outbound": "📦 直连域名"
-      }
-    ]
-  }
+  "version": 2,
+  "rules": [
+    {
+      "description": "💻【电脑端进程-直连组】",
+      "process_name": [
+        "CCC.exe",
+        "DDD.exe"
+      ],
+      "outbound": "📦 直连域名"
+    },
+    {
+      "description": "🤖【安卓端包名-直连组】",
+      "package_name": [
+        "com.example.directapp",
+        "com.example.localapp"
+      ],
+      "outbound": "📦 直连域名"
+    },
+    {
+      "description": "💻【电脑端进程-代理组】",
+      "process_name": [
+        "AAA.exe",
+        "BBB.exe"
+      ],
+      "outbound": "🌏 国外穿墙"
+    },
+    {
+      "description": "🤖【安卓端包名-代理组】",
+      "package_name": [
+        "com.android.chrome",
+        "org.telegram.messenger"
+      ],
+      "outbound": "🌏 国外穿墙"
+    },
+    {
+      "description": "暗影花园-电脑端进程匹配",
+      "process_name": [
+        "MasterofGarden.exe",
+        "mogLauncher.exe"
+      ],
+      "outbound": "💣 暗影庭园"
+    },
+    {
+      "description": "暗影花园-关键字匹配",
+      "domain_keyword": [
+        "shadow-garden"
+      ],
+      "outbound": "💣 暗影庭园"
+    },
+    {
+      "description": "暗影花园-域名后缀匹配",
+      "domain_suffix": [
+        "tw-prd-cdn-shadow-garden-mog.akamaized.net",
+        "shadow-garden-mog.tw",
+        "softstargames.com.tw"
+      ],
+      "outbound": "💣 暗影庭园"
+    },
+    {
+      "description": "拷贝漫画-代理组（被屏蔽地址）",
+      "domain_suffix": [
+        "2025copy.com",
+        "2026copy.com"
+      ],
+      "outbound": "📕 拷贝漫画"
+    },
+    {
+      "description": "⚡【拷贝漫画·加速组】默认在本地绑定 direct",
+      "domain_suffix": [
+        "copy20.com",
+        "copy2000.online",
+        "copy2000.site",
+        "copy3000.com",
+        "manga-copy.com",
+        "mangacopy.com",
+        "mangafunb.fun"
+      ],
+      "outbound": "⚡ 拷贝漫画·加速"
+    },
+    {
+      "description": "自定义直连列表（动漫、网盘）",
+      "domain_suffix": [
+        "1anime1.top",
+        "1anime2025.com",
+        "1anime2025.me",
+        "acgfta.com",
+        "akianime.cc",
+        "bfdm.xyz",
+        "cloudflarestorage.com",
+        "cycani.org",
+        "cycanime.com",
+        "d1dm.xyz",
+        "dandanplay.net",
+        "danmaku-cn.myani.org",
+        "dmdan8.com",
+        "dmmiku.com",
+        "dmmiku.net",
+        "eacg1.com",
+        "fafda.to",
+        "fqdm.cc",
+        "girigirilove.com",
+        "gofile.io",
+        "gugu3.com",
+        "ikfan.com",
+        "jzsdm1.com",
+        "k8dm.com",
+        "maccms.la",
+        "mcydh.com",
+        "mediafire.com",
+        "mikanime.tv",
+        "mwcy.net",
+        "mxdm.xyz",
+        "mxdm9.cc",
+        "mxdmp.com",
+        "mxdmv.com",
+        "ntdm8.com",
+        "omofun.icu",
+        "psychz.net",
+        "qdm88.com",
+        "senhewenhua.com",
+        "services.googleapis.cn",
+        "skr2.cc",
+        "ssrfun.com",
+        "superbed.cc",
+        "vdm10.com",
+        "vik1ngfile.site",
+        "vikingfile.com",
+        "wenku8.net",
+        "xfdm.pro",
+        "xiapidm.com",
+        "xn--ngstr-lra8j.com",
+        "yhdmjx.com",
+        "yinghua12.com",
+        "yinghua2.com",
+        "yinghuazy.xyz",
+        "zgacgn.com"
+      ],
+      "outbound": "📦 直连域名"
+    }
+  ]
 }
