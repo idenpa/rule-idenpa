@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "placeholder-exact-match-1.invalid",
+        "placeholder-exact-match-2.invalid"
+      ],
+      "domain_suffix": [
+        "2025copy.com",
+        "2026copy.com",
+        "placeholder-suffix-match-1.invalid",
+        "placeholder-suffix-match-2.invalid"
+      ],
+      "domain_keyword": [
+        "placeholderkeyword1",
+        "placeholderkeyword2"
+      ],
+      "ip_cidr": [
+        "240.0.0.1/32",
+        "240.0.0.2/32"
+      ]
+    }
+  ]
+}
