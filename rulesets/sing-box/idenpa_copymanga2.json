@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mangacopy.com",
+        "copymanga.site",
+        "copymanga.tv",
+        "mangafuna.xyz",
+        "mangafunb.fun",
+        "copy20.com",
+        "copy2000.online"
+      ],
+      "domain_keyword": [
+        "copymanga",
+        "mangacopy",
+        "mangafun",
+        "copy2000"
+      ]
+    }
+  ]
+}
