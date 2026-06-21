@@ -35,6 +35,14 @@
         "outbound": "🌏 国外穿墙"
       },
       {
+        "description": "暗影花园-电脑端进程匹配（优先）",
+        "process_name": [
+          "MasterofGarden.exe",
+          "mogLauncher.exe"
+        ],
+        "outbound": "💣 暗影庭园"
+      },
+      {
         "description": "暗影花园-关键字匹配",
         "domain_keyword": [
           "shadow-garden"
@@ -59,7 +67,7 @@
         "outbound": "📕 拷贝漫画"
       },
       {
-        "description": "👇【随时切换组】默认直连。嫌慢把 direct 改成 拷贝漫画",
+        "description": "👇【随时切换组】默认直连。觉得慢切换为代理",
         "domain_suffix": [
           "copy20.com",
           "copy2000.online",
@@ -69,7 +77,7 @@
           "mangacopy.com",
           "mangafunb.fun"
         ],
-        "outbound": "📕 拷贝漫画"
+        "outbound": "⚡ 拷贝漫画·加速"
       },
       {
         "description": "自定义直连列表（动漫、网盘）",
