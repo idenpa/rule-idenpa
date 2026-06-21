@@ -2,11 +2,22 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "googleapis.com",
-        "tearemix.com"
+      "domain": [
+        "placeholder-exact-match-1.invalid",
+        "placeholder-exact-match-2.invalid"
       ],
-      "domain_keyword": ""
+      "domain_suffix": [
+        "placeholder-suffix-match-1.invalid",
+        "placeholder-suffix-match-2.invalid"
+      ],
+      "domain_keyword": [
+        "placeholderkeyword1",
+        "placeholderkeyword2"
+      ],
+      "ip_cidr": [
+        "240.0.0.1/32",
+        "240.0.0.2/32"
+      ]
     }
   ]
 }
