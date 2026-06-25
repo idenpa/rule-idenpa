@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "placeholder-exact-match-1.invalid",
+        "placeholder-exact-match-2.invalid"
+      ],
+      "domain_suffix": [
+        "1anime1.top",
+        "1anime2025.com",
+        "1anime2025.me",
+        "acgfta.com",
+        "akianime.cc",
+        "bfdm.xyz",
+        "cycani.org",
+        "cycanime.com",
+        "d1dm.xyz",
+        "dandanplay.net",
+        "danmaku-cn.myani.org",
+        "dmdan8.com",
+        "dmmiku.com",
+        "dmmiku.net",
+        "eacg1.com",
+        "fafda.to",
+        "fqdm.cc",
+        "girigirilove.com",
+        "gugu3.com",
+        "ikfan.com",
+        "jzsdm1.com",
+        "k8dm.com",
+        "maccms.la",
+        "mcydh.com",
+        "mediafire.com",
+        "mikanime.tv",
+        "mwcy.net",
+        "mxdm.xyz",
+        "mxdm9.cc",
+        "mxdmp.com",
+        "mxdmv.com",
+        "ntdm8.com",
+        "omofun.icu",
+        "psychz.net",
+        "qdm88.com",
+        "senhewenhua.com",
+        "skr2.cc",
+        "ssrfun.com",
+        "superbed.cc",
+        "vdm10.com",
+        "wenku8.net",
+        "xfdm.pro",
+        "xiapidm.com",
+        "yhdmjx.com",
+        "yinghua12.com",
+        "yinghua2.com",
+        "yinghuazy.xyz",
+        "zgacgn.com",
+        "placeholder-suffix-match-1.invalid",
+        "placeholder-suffix-match-2.invalid"
+      ],
+      "domain_keyword": [
+        "placeholderkeyword1",
+        "placeholderkeyword2"
+      ],
+      "ip_cidr": [
+        "240.0.0.1/32",
+        "240.0.0.2/32"
+      ]
+    }
+  ]
+}
