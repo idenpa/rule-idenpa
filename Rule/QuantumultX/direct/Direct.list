@@ -47,10 +47,12 @@ host-suffix, yinghua12.com
 host-suffix, yinghua2.com
 host-suffix, yinghuazy.xyz
 host-suffix, zgacgn.com
+
 # CloudDrive
 host-suffix, gofile.io
 host-suffix, vik1ngfile.site
 host-suffix, vikingfile.com
-# 暂时禁用
-# host-suffix, mcdn.bilivideo.cn, direct
-# host-suffix, pcdn.bilivideo.cn, direct
+
+# 暂时禁用（已注释）
+# host-suffix, mcdn.bilivideo.cn
+# host-suffix, pcdn.bilivideo.cn
