@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "placeholder-exact-match-1.invalid",
+        "placeholder-exact-match-2.invalid"
+      ],
+      "domain_suffix": [
+        "tw-prd-cdn-shadow-garden-mog.akamaized.net",
+        "shadow-garden-mog.tw",
+        "softstargames.com.tw",
+        "placeholder-suffix-match-1.invalid",
+        "placeholder-suffix-match-2.invalid"
+      ],
+      "domain_keyword": [
+        "shadow-garden",
+        "placeholderkeyword1",
+        "placeholderkeyword2"
+      ],
+      "ip_cidr": [
+        "240.0.0.1/32",
+        "240.0.0.2/32"
+      ]
+    }
+  ]
+}
