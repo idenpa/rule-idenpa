@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "placeholder-exact-match-1.invalid",
+        "placeholder-exact-match-2.invalid"
+      ],
+      "domain_suffix": [
+        "2025copy.com",
+        "2026copy.com",
+        "copy20.com",
+        "copy2000.online",
+        "copy2000.site",
+        "copy3000.com",
+        "manga-copy.com",
+        "mangacopy.com",
+        "mangafunb.fun",
+        "copymanga.com",
+        "copymanga.tv",
+        "copymanga.site",
+        "copymanga.org",
+        "copy-cdn.com",
+        "placeholder-suffix-match-1.invalid",
+        "placeholder-suffix-match-2.invalid"
+      ],
+      "domain_keyword": [
+        "copymanga",
+        "mangacopy",
+        "mangafun",
+        "placeholderkeyword2"
+      ],
+      "ip_cidr": [
+        "240.0.0.1/32",
+        "240.0.0.2/32"
+      ]
+    }
+  ]
+}
