@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "placeholder-exact-match-1.invalid",
+        "placeholder-exact-match-2.invalid"
+      ],
+      "domain_suffix": [
+        "wnacg.com",
+        "wnacg.ru",
+        "wn01.shop",
+        "wn01.cfd",
+        "wn06.ru",
+        "wn07.rum",
+        "qy0.ru"
+      ],
+      "domain_keyword": [
+        "placeholderkeyword1",
+        "placeholderkeyword2"
+      ],
+      "ip_cidr": [
+        "240.0.0.1/32",
+        "240.0.0.2/32"
+      ]
+    }
+  ]
+}
