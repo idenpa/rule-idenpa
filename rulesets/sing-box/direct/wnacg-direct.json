@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "placeholder-exact-match-1.invalid",
+        "placeholder-exact-match-2.invalid"
+      ],
+      "domain_suffix": [
+        "wnacg.buzz",
+        "wnacg.site",
+        "wnimg2.cfd"
+      ],
+      "domain_keyword": [
+        "placeholderkeyword1",
+        "placeholderkeyword2"
+      ],
+      "ip_cidr": [
+        "240.0.0.1/32",
+        "240.0.0.2/32"
+      ]
+    }
+  ]
+}
