@@ -1,8 +1,11 @@
 # 绅士漫画
-DOMAIN-SUFFIX,wnacg.site
-DOMAIN-SUFFIX,wnimg2.cfd
-DOMAIN-SUFFIX,cloudwn.shop
+DOMAIN-SUFFIX,pagewn.shop
+DOMAIN-SUFFIX,wncomic.shop
 DOMAIN-SUFFIX,wnmanga.shop
+DOMAIN-SUFFIX,cloudwn.shop
+DOMAIN-SUFFIX,wnacg.site
+# 绅士漫画图片
+DOMAIN-SUFFIX,wnimg2.cfd
 # 绅士漫画发布页
 DOMAIN-SUFFIX,wnacglink.com
 DOMAIN-SUFFIX,wnacglink.net
